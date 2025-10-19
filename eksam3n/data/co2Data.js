@@ -1,0 +1,22 @@
+export const co2Data = [
+    { land: "Qatar", utslipp: 37.05 },
+    { land: "Kuwait", utslipp: 23.89 },
+    { land: "Saudi-Arabia", utslipp: 18.48 },
+    { land: "Australia", utslipp: 17.10 },
+    { land: "USA", utslipp: 15.52 },
+    { land: "Kanada", utslipp: 15.32 },
+    { land: "Sør-Korea", utslipp: 12.15 },
+    { land: "Russland", utslipp: 11.44 },
+    { land: "Japan", utslipp: 9.51 },
+    { land: "Tyskland", utslipp: 8.67 },
+    { land: "Sør-Afrika", utslipp: 7.92 },
+    { land: "Kina", utslipp: 7.38 },
+    { land: "Storbritannia", utslipp: 5.81 },
+    { land: "Italia", utslipp: 5.55 },
+    { land: "Frankrike", utslipp: 4.73 },
+    { land: "Mexico", utslipp: 3.93 },
+    { land: "Brasil", utslipp: 2.20 },
+    { land: "India", utslipp: 1.91 },
+    { land: "Indonesia", utslipp: 1.80 },
+    { land: "Nigeria", utslipp: 0.63 }
+  ];
